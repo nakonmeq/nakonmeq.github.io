@@ -9,5 +9,5 @@ Yay a website
 > hey :/
 
 > I know, I know[^1].
-> 
+
 > [^1}: I made it up.
