@@ -1,3 +1,2 @@
 # nakonmeq.github.io
-
-## ahola, let's see where to begin
+*ahola, let's see where to begin*
