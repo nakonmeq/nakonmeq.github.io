@@ -8,6 +8,6 @@ Yay a website
 
 > hey :/
 
-> I know, I know[^1].
+> I know, I know[^1]. Okay?
 
-> [^1}: I made it up.
+[^1}: I made it up.
